@@ -12,14 +12,14 @@ function ContentRowTop() {
     color: "primary",
     titulo: "Cantidad de Productos",
     valor: countProducts,
-    icono: "fas fa-film",
-  };
+    icono: "fas fa-apple-alt",
+  }; 
   
   let amount = {
     color: "success",
     titulo: "Categorias Activas",
     valor: categories,
-    icono: "fas fa-award",
+    icono: "fas fa-layer-group",
   };
   
   let user = {
